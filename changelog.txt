@@ -1,11 +1,4 @@
-• Dec 2025 Security Patch
-• Label missing wakeup nodes
-• uah: Add missing stub symbols
-• doze: Fix ClassCastException on pickup pref change
-• Uprev kernel to 6.1.158
-• Fix broken plus key actions
-• Disable surface linger backpressure
-• Set app animation speed to 0.8
-• Improve FP behaviour
-• Improve statusbar paddings
+• [hotfix] fix pass/pin/pattern not working till 1-2min after boot
+• Update Dialer and Messaging icon
+• Reset settings icon to AOSP
 • Misc fixes and improvements
