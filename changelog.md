@@ -1,5 +1,4 @@
-# Changelog
-**Date:** 11 June 2026
+<h4> Date: 11 June 2026 </h4>
 
 * Added the option to copy screenshots directly to the clipboard instead of saving them to storage.
 * Implemented compact notifications as a toggle (reTicker).
