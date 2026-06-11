@@ -8,3 +8,4 @@
 * Added support for custom icon packs.
 * Added support to edit individual app labels and icons from an applied icon pack (ROM only for now).
 * Added support for ota from our download servers.
+* Fix ram info usage present in recents even if its off in toggle.
