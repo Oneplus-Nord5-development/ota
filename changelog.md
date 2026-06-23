@@ -1,3 +1,12 @@
+<h4> Date: 24 June 2026 </h4>
+
+* Improve custom app icon code
+* Update LiveDisplay color profiles to match AOSP
+* Add a preference for LiveDisplay display profiles
+* De-blob oplus interfaces
+* Update from OOS 11.C.23
+* Misc fixes and improvements
+
 <h4> Date: 11 June 2026 </h4>
 
 * Added the option to copy screenshots directly to the clipboard instead of saving them to storage.
